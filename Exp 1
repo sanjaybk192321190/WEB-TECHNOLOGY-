@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Header Tags Example</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="HTML Head Tags">
+    <meta name="keywords" content="HTML, Head, Meta">
+    <meta name="author" content="Student">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body { font-family: Arial; }
+    </style>
+    <script>
+        console.log("Head section script");
+    </script>
+</head>
+<body>
+    <h1>HTML Head Tags</h1>
+</body>
+<footer>
+    <p>Footer Section</p>
+</footer>
+</html>
