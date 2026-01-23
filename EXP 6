@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="title">Welcome</h1>
+    <p class="content">This is paragraph one.</p>
+    <p class="content">This is paragraph two.</p>
+    <div class="box">Box Element</div>
+</body>
+</html>
