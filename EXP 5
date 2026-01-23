@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+<form>
+    <h2>Employee Registration</h2>
+
+    Name: <input type="text"><br>
+    ID: <input type="text"><br>
+    Address: <textarea></textarea><br>
+    Department: <input type="text"><br>
+    Mobile: <input type="number"><br>
+
+    City:
+    <select>
+        <option>Chennai</option>
+        <option>Bangalore</option>
+        <option>Hyderabad</option>
+    </select><br><br>
+
+    <input type="submit" value="Register">
+</form>
+</body>
+</html>
