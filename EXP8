@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+let num = 5;
+
+// Exponential value
+document.write("Exponential value: " + num.toExponential() + "<br>");
+
+// Limit decimal digits
+let decimalNum = 3.1415926;
+document.write("Limited decimals: " + decimalNum.toFixed(2) + "<br>");
+
+// Convert number to string
+let str = num.toString();
+document.write("Number to string: " + str + "<br>");
+
+// Negative Infinity
+let negInf = Number.NEGATIVE_INFINITY;
+document.write("Negative Infinity: " + negInf);
+</script>
+
+</body>
+</html>
