@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Current Date & Time</h2>
+<p id="time"></p>
+
+<script>
+document.getElementById("time").innerHTML = new Date();
+</script>
+
+</body>
+</html>
