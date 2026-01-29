@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.emoji {
+  font-size: 40px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+</style>
+</head>
+<body>
+
+<h2>Emoji Example</h2>
+<div class="emoji"
+
+</body>
+</html>
