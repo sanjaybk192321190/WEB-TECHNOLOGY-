@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Job Portal</title>
+<style>
+body { font-family: Arial; background:#f2f2f2; }
+header, footer { background:#333; color:white; text-align:center; padding:10px; }
+.job { background:white; margin:15px; padding:15px; }
+</style>
+</head>
+<body>
+
+<header><h1>Online Job Portal</h1></header>
+
+<div class="job">
+<h3>Software Developer</h3>
+<p>Skills: HTML, CSS, JavaScript</p>
+<button>Apply</button>
+</div>
+
+<footer>© Job Portal</footer>
+
+</body>
+</html>
