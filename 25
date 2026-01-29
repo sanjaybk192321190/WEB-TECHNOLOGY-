@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+let str1 = "Hello";
+let str2 = "World";
+
+document.write("Character: " + str1.charAt(1) + "<br>");
+document.write("Unicode: " + str1.charCodeAt(1) + "<br>");
+document.write("Joined: " + str1.concat(" ", str2) + "<br>");
+document.write("From Unicode: " + String.fromCharCode(72) + "<br>");
+document.write("Uppercase: " + str1.toUpperCase());
+</script>
+</body>
+</html>
