@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("bg.jpg");
+  background-size: cover;
+}
+</style>
+</head>
+<body>
+<h1>Background Image</h1>
+</body>
+</html>
